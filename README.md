@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @charaniananda97
+- 👋 Hi, I’m @charani.
 - 👀 I’m interested in Programming..
 - 🌱 I’m currently learning Computer Science
 ### About Me:
